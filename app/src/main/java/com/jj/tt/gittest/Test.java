@@ -5,5 +5,5 @@ package com.jj.tt.gittest;
  */
 
 public class Test {
-    private int aa = 1;
+    private int aa = 2;
 }
